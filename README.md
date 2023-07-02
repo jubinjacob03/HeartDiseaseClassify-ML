@@ -2,7 +2,7 @@
 Heart Disease Dataset Analysis &amp; Classification using  Machine Learning model Linear regression to predict cardiac diseases.
 
 #  heartD-1 Branch
-- Machine Learning with Linear Regressions on Heart Disease Dataset.
+- Machine Learning with Linear Regression on Heart Disease Dataset.
 - Sub-branch of [HeartDiseaseClassify-ML_Main](https://github.com/jubinjacob03/HeartDiseaseClassify-ML/tree/main) branch.
 - Files in this Branch -
 
