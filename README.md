@@ -2,7 +2,7 @@
 Heart Disease Dataset Analysis &amp; Classification using  Machine Learning models such as linear regression, support vector machine, k-means, k-nearest neighbors and logistic regression  to predict cardiac diseases.
 
 # Main Branch
-- This branch contains all files for both branches [heartD-1](https://github.com/jubinjacob03/HeartDiseaseClassify-ML/tree/heartD-1) & [heartD-2](https://github.com/jubinjacob03/HeartDiseaseClassify-ML/tree/heartD-1)
+- This branch contains all files for both branches [heartD-1](https://github.com/jubinjacob03/HeartDiseaseClassify-ML/tree/heartD-1) & [heartD-2](https://github.com/jubinjacob03/HeartDiseaseClassify-ML/tree/heartD-2)
 - Machine Learning with different Regressions on different Dataset
 - Branch <em>heartD-1 
 </em> -
